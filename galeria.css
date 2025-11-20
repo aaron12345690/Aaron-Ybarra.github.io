@@ -1,0 +1,9 @@
+body{background-color:green;}
+h1{text-align:center}
+.photo-gallery{ background: rgb(255, 254, 217);
+                padding:20px;
+  tex-align:center}
+.photo{ width: 200px;
+                border:6px ridge blue;
+                margin-right:30px;
+                margin-bottom:30px;}
